@@ -1,8 +1,6 @@
 
 # NOTE : follow the instructions in readme.md
 
-# Common
-project = "e2esa"
 
 # General 
 aws_region = "us-east-1"
