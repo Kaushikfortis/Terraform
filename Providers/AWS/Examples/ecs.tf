@@ -1,3 +1,5 @@
+########################### ECS cluster w/ Fargate or EC2 Auto Scaling capacity providers ########################
+
 module "ecs" {
   source = "terraform-aws-modules/ecs/aws"
 
