@@ -1,3 +1,6 @@
+################ Terraform module which creates AWS ECR resources ##############
+
+
 module "ecr" {
   source = "terraform-aws-modules/ecr/aws"
 
